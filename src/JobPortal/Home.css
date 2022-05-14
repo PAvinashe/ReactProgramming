@@ -1,0 +1,15 @@
+.UserList{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+.listItem{
+
+    width: 400px;
+    border: 1px solid rgb(145, 106, 60);
+    border-radius: 4px;
+    background-color:rgb(243, 199, 145)
+    
+}
